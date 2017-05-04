@@ -1,0 +1,14 @@
+.sumBox {
+  background-color: #292540;
+  height: 25px;
+  width: 100%;
+  padding: 10px;
+  color: #f4ca81;
+  font-family: rockwell;
+  font-size: 14pt;
+  margin-top: 20px;
+  position: fixed;
+  bottom: 0px;
+  z-index: 1000;
+  text-align: center;
+}

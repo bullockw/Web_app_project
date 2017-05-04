@@ -1,0 +1,23 @@
+.deleteButton {
+      background-color: #f43d9e;
+      border: none;
+      color: white;
+      padding: 2px 12px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+      margin: 4px 2px;
+      cursor: pointer;
+      border-radius: 5px;
+      margin-left: 10px;
+    }
+
+.entryBox {
+  background-color: #f43d9e;
+  font-size: 30px;
+  color: black;
+}
+.content {
+  background-color: blue;
+}
